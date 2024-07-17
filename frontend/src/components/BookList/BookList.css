@@ -1,0 +1,15 @@
+
+  
+  .panel-heading {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .edit-card {
+    background-color: #ffffff;
+    border: 1px solid #e6e6e6;
+  }
+
+  .table-card{
+    min-height: 520px;
+  }

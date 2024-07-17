@@ -1,0 +1,311 @@
+[
+    {
+        "model": "api.book",
+        "fields": {
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "published_date": "1859-04-30",
+            "isbn": "978-0141439600",
+            "pages": 489,
+            "inserted_at": "2024-07-17T14:00:00Z"
+        }
+    },
+    {
+        "model": "api.book",
+        "fields": {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "published_date": "1960-07-11",
+            "isbn": "978-0061120084",
+            "pages": 281,
+            "inserted_at": "2024-07-17T14:00:00Z"
+        }
+    },
+    {
+        "model": "api.book",
+        "fields": {
+            "title": "1984",
+            "author": "George Orwell",
+            "published_date": "1949-06-08",
+            "isbn": "978-0451524935",
+            "pages": 328,
+            "inserted_at": "2024-07-17T14:00:00Z"
+        }
+    },
+    {
+        "model": "api.book",
+        "fields": {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "published_date": "1813-01-28",
+            "isbn": "978-0141439518",
+            "pages": 279,
+            "inserted_at": "2024-07-17T14:00:00Z"
+        }
+    },
+    {
+        "model": "api.book",
+        "fields": {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "published_date": "1925-04-10",
+            "isbn": "978-0743273565",
+            "pages": 180,
+            "inserted_at": "2024-07-17T14:00:00Z"
+        }
+    },
+    {
+        "model": "api.book",
+        "fields": {
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "published_date": "1851-10-18",
+            "isbn": "978-1503280786",
+            "pages": 585,
+            "inserted_at": "2024-07-17T14:00:00Z"
+        }
+    },
+    {
+        "model": "api.book",
+        "fields": {
+            "title": "War and Peace",
+            "author": "Leo Tolstoy",
+            "published_date": "1869-01-01",
+            "isbn": "978-1503275924",
+            "pages": 1225,
+            "inserted_at": "2024-07-17T14:00:00Z"
+        }
+    },
+    {
+        "model": "api.book",
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "published_date": "1951-07-16",
+            "isbn": "978-0316769488",
+            "pages": 214,
+            "inserted_at": "2024-07-17T14:00:00Z"
+        }
+    },
+    {
+        "model": "api.book",
+        "fields": {
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "published_date": "1932-08-30",
+            "isbn": "978-0060850524",
+            "pages": 268,
+            "inserted_at": "2024-07-17T14:00:00Z"
+        }
+    },
+    {
+        "model": "api.book",
+        "fields": {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "published_date": "1937-09-21",
+            "isbn": "978-0547928227",
+            "pages": 310,
+            "inserted_at": "2024-07-17T14:00:00Z"
+        }
+    },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "The Da Vinci Code",
+                "author": "Dan Brown",
+                "published_date": "2003-03-18",
+                "isbn": "978-0385504201",
+                "pages": 489,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "Gone with the Wind",
+                "author": "Margaret Mitchell",
+                "published_date": "1936-06-30",
+                "isbn": "978-1451635621",
+                "pages": 1037,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "Fahrenheit 451",
+                "author": "Ray Bradbury",
+                "published_date": "1953-10-19",
+                "isbn": "978-1451673319",
+                "pages": 158,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "Dune",
+                "author": "Frank Herbert",
+                "published_date": "1965-08-01",
+                "isbn": "978-0441013593",
+                "pages": 412,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "Catch-22",
+                "author": "Joseph Heller",
+                "published_date": "1961-11-10",
+                "isbn": "978-1451626650",
+                "pages": 453,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "The Lord of the Rings",
+                "author": "J.R.R. Tolkien",
+                "published_date": "1954-07-29",
+                "isbn": "978-0618640157",
+                "pages": 1178,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "Little Women",
+                "author": "Louisa May Alcott",
+                "published_date": "1868-09-30",
+                "isbn": "978-0142408761",
+                "pages": 449,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "The Odyssey",
+                "author": "Homer",
+                "published_date": "1800-01-01",
+                "isbn": "978-0143039952",
+                "pages": 541,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "Murder on the Orient Express",
+                "author": "Agatha Christie",
+                "published_date": "1934-01-01",
+                "isbn": "978-0062693662",
+                "pages": 256,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "The Shining",
+                "author": "Stephen King",
+                "published_date": "1977-01-28",
+                "isbn": "978-0307743657",
+                "pages": 447,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "The Alchemist",
+                "author": "Paulo Coelho",
+                "published_date": "1988-05-01",
+                "isbn": "978-0061122415",
+                "pages": 208,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "The Girl with the Dragon Tattoo",
+                "author": "Stieg Larsson",
+                "published_date": "2005-08-01",
+                "isbn": "978-0307454546",
+                "pages": 465,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "Life of Pi",
+                "author": "Yann Martel",
+                "published_date": "2001-09-11",
+                "isbn": "978-0156012195",
+                "pages": 319,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "The Secret Garden",
+                "author": "Frances Hodgson Burnett",
+                "published_date": "1911-08-01",
+                "isbn": "978-1503214568",
+                "pages": 331,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "The Bell Jar",
+                "author": "Sylvia Plath",
+                "published_date": "1963-01-14",
+                "isbn": "978-0060837020",
+                "pages": 288,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "Jane Eyre",
+                "author": "Charlotte Brontë",
+                "published_date": "1847-10-16",
+                "isbn": "978-0141441146",
+                "pages": 500,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "The Count of Monte Cristo",
+                "author": "Alexandre Dumas",
+                "published_date": "1844-08-28",
+                "isbn": "978-0486281115",
+                "pages": 1276,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+        },
+        {
+            "model": "api.book",
+            "fields": {
+                "title": "The Little Prince",
+                "author": "Antoine de Saint-Exupéry",
+                "published_date": "1943-04-06",
+                "isbn": "978-0156013986",
+                "pages": 96,
+                "inserted_at": "2024-07-17T14:00:00Z"
+            }
+    }
+    
+]
