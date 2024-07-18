@@ -5,7 +5,9 @@ export default function EditBookComponent({ book, onSave }) {
     title: "",
     author: "",
     isbn: "",
-    published_date: ""
+    published_date: new Date(),
+    pages: 0,
+    image: null,
   });
 
   useEffect(() => {
@@ -13,13 +15,20 @@ export default function EditBookComponent({ book, onSave }) {
   }, [book]);
 
   const handleChange = (e) => {
-    const { name, value } = e.target;
-    setFormData({ ...formData, [name]: value });
+    const { name, value,files } = e.target;
+    if (name === 'image') {
+      setFormData({ ...formData, image: files[0] }); 
+    } else {
+      setFormData({ ...formData, [name]: value });
+    }
   };
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    onSave(formData);
+    var result = onSave(formData);
+    if (result) {
+      handleClearForm();
+    }
   };
 
   const handleClearForm = () => {
@@ -58,7 +67,7 @@ export default function EditBookComponent({ book, onSave }) {
               id="author"
               type="text"
               name="author"
-              value={formData.author}
+              value={formData.author || ""}
               onChange={handleChange}
             />
           </div>
@@ -69,7 +78,7 @@ export default function EditBookComponent({ book, onSave }) {
               id="isbn"
               type="text"
               name="isbn"
-              value={formData.isbn}
+              value={formData.isbn || ""}
               onChange={handleChange}
             />
           </div>
@@ -80,7 +89,17 @@ export default function EditBookComponent({ book, onSave }) {
               id="pages"
               type="number"
               name="pages"
-              value={formData.pages}
+              value={formData.pages || ""}
+              onChange={handleChange}
+            />
+          </div>
+          <div className="form-group">
+            <label htmlFor="image">Image</label>{" "}
+            <input
+              className="form-control"
+              id="image"
+              type="file"
+              name="image"
               onChange={handleChange}
             />
           </div>

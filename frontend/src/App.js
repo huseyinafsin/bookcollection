@@ -6,7 +6,7 @@ import Footer from './components/Footer/Footer';
 import { Route, Routes } from 'react-router-dom';
 import About from './pages/About/About';
 import NotFound from './pages/NoFound/NotFound';
-
+import { ToastContainer } from 'react-toastify';
 function App() {
   return (
     <div className="App">
@@ -18,8 +18,8 @@ function App() {
           <Route path="/books" element={<BookList />} />
           <Route path="/about" element={<About />} />
           <Route path="/*" element={<NotFound/>} />
-
         </Routes>
+        <ToastContainer />
         </div>
       </main>
       <Footer/>

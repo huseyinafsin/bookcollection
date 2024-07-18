@@ -23,8 +23,8 @@ export default function Navbar() {
         <li className="nav-item">
           <Link className="nav-link" to={'about'} >About</Link>
         </li>
-        <Link className="nav-link" to={'https://github.com/huseyinafsin/bookcollection/'}> <i class="bi bi-git"></i> Source Code</Link>
-        <Link className="nav-link" to={'https://huseyins-organization.gitbook.io/book-collection'}> <i class="bi bi-file-earmark-text"></i> Doc</Link>
+        <Link className="nav-link" to={'https://github.com/huseyinafsin/bookcollection/'}> <i className="bi bi-git"></i> Source Code</Link>
+        <Link className="nav-link" to={'https://huseyins-organization.gitbook.io/book-collection'}> <i className="bi bi-file-earmark-text"></i> Doc</Link>
       </ul>
       <Social/>
     </div>

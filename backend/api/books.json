@@ -5,7 +5,7 @@
             "title": "A Tale of Two Cities",
             "author": "Charles Dickens",
             "published_date": "1859-04-30",
-            "isbn": "978-0141439600",
+            "isbn": "978-014143960",
             "pages": 489,
             "inserted_at": "2024-07-17T14:00:00Z"
         }
@@ -16,7 +16,7 @@
             "title": "To Kill a Mockingbird",
             "author": "Harper Lee",
             "published_date": "1960-07-11",
-            "isbn": "978-0061120084",
+            "isbn": "978-006112008",
             "pages": 281,
             "inserted_at": "2024-07-17T14:00:00Z"
         }
@@ -27,7 +27,7 @@
             "title": "1984",
             "author": "George Orwell",
             "published_date": "1949-06-08",
-            "isbn": "978-0451524935",
+            "isbn": "978-045152493",
             "pages": 328,
             "inserted_at": "2024-07-17T14:00:00Z"
         }
@@ -38,7 +38,7 @@
             "title": "Pride and Prejudice",
             "author": "Jane Austen",
             "published_date": "1813-01-28",
-            "isbn": "978-0141439518",
+            "isbn": "978-014143951",
             "pages": 279,
             "inserted_at": "2024-07-17T14:00:00Z"
         }
@@ -49,7 +49,7 @@
             "title": "The Great Gatsby",
             "author": "F. Scott Fitzgerald",
             "published_date": "1925-04-10",
-            "isbn": "978-0743273565",
+            "isbn": "978-074327356",
             "pages": 180,
             "inserted_at": "2024-07-17T14:00:00Z"
         }
@@ -60,7 +60,7 @@
             "title": "Moby Dick",
             "author": "Herman Melville",
             "published_date": "1851-10-18",
-            "isbn": "978-1503280786",
+            "isbn": "978-150328078",
             "pages": 585,
             "inserted_at": "2024-07-17T14:00:00Z"
         }
@@ -71,7 +71,7 @@
             "title": "War and Peace",
             "author": "Leo Tolstoy",
             "published_date": "1869-01-01",
-            "isbn": "978-1503275924",
+            "isbn": "978-150327592",
             "pages": 1225,
             "inserted_at": "2024-07-17T14:00:00Z"
         }
@@ -82,7 +82,7 @@
             "title": "The Catcher in the Rye",
             "author": "J.D. Salinger",
             "published_date": "1951-07-16",
-            "isbn": "978-0316769488",
+            "isbn": "978-031676948",
             "pages": 214,
             "inserted_at": "2024-07-17T14:00:00Z"
         }
@@ -93,7 +93,7 @@
             "title": "Brave New World",
             "author": "Aldous Huxley",
             "published_date": "1932-08-30",
-            "isbn": "978-0060850524",
+            "isbn": "978-006085052",
             "pages": 268,
             "inserted_at": "2024-07-17T14:00:00Z"
         }
@@ -104,7 +104,7 @@
             "title": "The Hobbit",
             "author": "J.R.R. Tolkien",
             "published_date": "1937-09-21",
-            "isbn": "978-0547928227",
+            "isbn": "978-054792822",
             "pages": 310,
             "inserted_at": "2024-07-17T14:00:00Z"
         }
@@ -115,7 +115,7 @@
                 "title": "The Da Vinci Code",
                 "author": "Dan Brown",
                 "published_date": "2003-03-18",
-                "isbn": "978-0385504201",
+                "isbn": "978-038550420",
                 "pages": 489,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -126,7 +126,7 @@
                 "title": "Gone with the Wind",
                 "author": "Margaret Mitchell",
                 "published_date": "1936-06-30",
-                "isbn": "978-1451635621",
+                "isbn": "978-145163562",
                 "pages": 1037,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -137,7 +137,7 @@
                 "title": "Fahrenheit 451",
                 "author": "Ray Bradbury",
                 "published_date": "1953-10-19",
-                "isbn": "978-1451673319",
+                "isbn": "978-145167331",
                 "pages": 158,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -148,7 +148,7 @@
                 "title": "Dune",
                 "author": "Frank Herbert",
                 "published_date": "1965-08-01",
-                "isbn": "978-0441013593",
+                "isbn": "978-044101359",
                 "pages": 412,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -159,7 +159,7 @@
                 "title": "Catch-22",
                 "author": "Joseph Heller",
                 "published_date": "1961-11-10",
-                "isbn": "978-1451626650",
+                "isbn": "978-145162665",
                 "pages": 453,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -170,7 +170,7 @@
                 "title": "The Lord of the Rings",
                 "author": "J.R.R. Tolkien",
                 "published_date": "1954-07-29",
-                "isbn": "978-0618640157",
+                "isbn": "978-061864015",
                 "pages": 1178,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -181,7 +181,7 @@
                 "title": "Little Women",
                 "author": "Louisa May Alcott",
                 "published_date": "1868-09-30",
-                "isbn": "978-0142408761",
+                "isbn": "978-014240876",
                 "pages": 449,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -192,7 +192,7 @@
                 "title": "The Odyssey",
                 "author": "Homer",
                 "published_date": "1800-01-01",
-                "isbn": "978-0143039952",
+                "isbn": "978-014303995",
                 "pages": 541,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -203,7 +203,7 @@
                 "title": "Murder on the Orient Express",
                 "author": "Agatha Christie",
                 "published_date": "1934-01-01",
-                "isbn": "978-0062693662",
+                "isbn": "978-006269366",
                 "pages": 256,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -214,7 +214,7 @@
                 "title": "The Shining",
                 "author": "Stephen King",
                 "published_date": "1977-01-28",
-                "isbn": "978-0307743657",
+                "isbn": "978-030774365",
                 "pages": 447,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -225,7 +225,7 @@
                 "title": "The Alchemist",
                 "author": "Paulo Coelho",
                 "published_date": "1988-05-01",
-                "isbn": "978-0061122415",
+                "isbn": "978-006112241",
                 "pages": 208,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -236,7 +236,7 @@
                 "title": "The Girl with the Dragon Tattoo",
                 "author": "Stieg Larsson",
                 "published_date": "2005-08-01",
-                "isbn": "978-0307454546",
+                "isbn": "978-030745454",
                 "pages": 465,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -247,7 +247,7 @@
                 "title": "Life of Pi",
                 "author": "Yann Martel",
                 "published_date": "2001-09-11",
-                "isbn": "978-0156012195",
+                "isbn": "978-015601219",
                 "pages": 319,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -258,7 +258,7 @@
                 "title": "The Secret Garden",
                 "author": "Frances Hodgson Burnett",
                 "published_date": "1911-08-01",
-                "isbn": "978-1503214568",
+                "isbn": "978-150321456",
                 "pages": 331,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -269,7 +269,7 @@
                 "title": "The Bell Jar",
                 "author": "Sylvia Plath",
                 "published_date": "1963-01-14",
-                "isbn": "978-0060837020",
+                "isbn": "978-006083702",
                 "pages": 288,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -280,7 +280,7 @@
                 "title": "Jane Eyre",
                 "author": "Charlotte Brontë",
                 "published_date": "1847-10-16",
-                "isbn": "978-0141441146",
+                "isbn": "978-014144114",
                 "pages": 500,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -291,7 +291,7 @@
                 "title": "The Count of Monte Cristo",
                 "author": "Alexandre Dumas",
                 "published_date": "1844-08-28",
-                "isbn": "978-0486281115",
+                "isbn": "978-048628111",
                 "pages": 1276,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }
@@ -302,7 +302,7 @@
                 "title": "The Little Prince",
                 "author": "Antoine de Saint-Exupéry",
                 "published_date": "1943-04-06",
-                "isbn": "978-0156013986",
+                "isbn": "978-015601398",
                 "pages": 96,
                 "inserted_at": "2024-07-17T14:00:00Z"
             }

@@ -50,7 +50,7 @@ const apiUrl = process.env.REACT_APP_API_URL;
           // 'Authorization': `Bearer ${apiKey}`,
         },
       });
-      return response.data;
+      return response;
 
     } catch (error) {
       console.error('Error creating book:', error);
@@ -68,7 +68,7 @@ const apiUrl = process.env.REACT_APP_API_URL;
           // 'Authorization': `Bearer ${apiKey}`,
         },
       });
-      return response.data;
+      return response;
     } catch (error) {
       console.error('Error updating book:', error);
       throw error;
@@ -85,7 +85,7 @@ const apiUrl = process.env.REACT_APP_API_URL;
           // 'Authorization': `Bearer ${apiKey}`,
         },
       });
-      return response.data;
+      return response;
     } catch (error) {
       console.error('Error deleting book:', error);
       throw error;
