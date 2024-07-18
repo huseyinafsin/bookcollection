@@ -17,6 +17,7 @@ function App() {
           <Route path="/" element={<BookList />} />
           <Route path="/books" element={<BookList />} />
           <Route path="/about" element={<About />} />
+          <Route path="/404" element={<NotFound/>} />
           <Route path="/*" element={<NotFound/>} />
         </Routes>
         <ToastContainer />
